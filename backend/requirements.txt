@@ -1,6 +1,4 @@
 flask
 flask-cors
 rapidfuzz
-
---only-binary :all:
-pandas==2.1.4
+pandas --only-binary :all:
